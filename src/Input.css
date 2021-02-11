@@ -1,0 +1,34 @@
+.Input{
+	border-style: solid;
+	border-color: green;
+}
+
+#amount {
+	width : 70%;
+}
+
+hr{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#service{
+	height: 30px;
+}
+
+#name{
+	margin-right: 10px;
+}
+#p{
+	margin-top: 50px;
+}
+
+.button{
+	background-color: #347deb;
+	color: white;
+	padding: 5px;
+}
+
+.textInput{
+	height: 20px;
+}
